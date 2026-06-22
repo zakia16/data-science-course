@@ -1,5 +1,6 @@
 # Some Resources
 https://github.com/datascience-course
+https://github.com/Harvard-IACS/2021-CS109A/tree/master/content
 
 # Practical Data Science Course Lessons
 
