@@ -1,8 +1,7 @@
-# Practical Data Science Course Lessons
+# Some Resources
+https://github.com/datascience-course
 
-This is the teaching material that I use for laboratory lessons on practical data science for the following courses:
-*   Data Analytics for Smart Agriculture (I semester, Politecnico di Milano, Milan campus)
-*   Data Harvesting and Data Analysis for Agriculture (II semester, Politecnico di Milano, Cremona campus)
+# Practical Data Science Course Lessons
 
 **Within each directory, you will find a theory notebook that is extensively commented on the respective lesson topic, along with a homework directory containing exercises and their solutions. The comprehensive index of course topics is provided below.**
 
